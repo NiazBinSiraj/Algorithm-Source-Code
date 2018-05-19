@@ -1,4 +1,4 @@
-// header files
+//Credit: Jane Alam Jan Vai
 #include <cstdio>
 #include <string>
 #include <algorithm>
