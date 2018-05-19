@@ -7,7 +7,7 @@ Trojan Hex is a Competitive Programming Team. In this repository, We store our u
 		Member 3: Rakib Sheikh Meidul
 	
 	University of Rajshahi
-	Department of Computer of Science and Engineering
+	Department of Computer Science and Engineering
 	Session: 2016-17
 	25th Batch of RUCSE
 	64th Batch of RU
