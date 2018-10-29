@@ -1,10 +1,4 @@
-# Trojan-Hex
-Trojan Hex is a Competitive Programming Team. In this repository, We store our used source code of algorithms in our contest using C++ Language.
-
-	Team Name: Trojan Hex
-		Member 1: Niaz Bin Siraj
-		Member 2: Nahid Hasan Raju
-		Member 3: Rakib Sheikh Meidul
+This reposotory contains my used source code of algorithms in programming contest using C++ Language.
 	
 	University of Rajshahi
 	Department of Computer Science and Engineering
