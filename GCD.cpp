@@ -24,7 +24,7 @@ int main()
     ll a,b;
     cin >> a >> b;
 
-    cout << gcd(a,b) <<endl;
+    cout << lcm(a,b) <<endl;
     return 0;
 }
 
